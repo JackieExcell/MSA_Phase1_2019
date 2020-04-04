@@ -14,10 +14,15 @@ Azure Notebooks project link : https://notebooks.azure.com/JackieExcell/projects
 
 Azure Notebooks project link ： https://notebooks.azure.com/JackieExcell/projects/keras
 
+
 ### (2) Learning from Youtube with auto-mpg data
 
 Azure Notebooks project link: https://notebooks.azure.com/JackieExcell/projects/auto-mpg
 
-### (3) Mini project- Fifa 2019
+### (3) Analysis of moive data with machine learning and visualization
+
+Azure Notebooks project link: https://notebooks.azure.com/JackieExcell/projects/msa-phase1-2019-part1
+
+### (4) Mini project- Fifa 2019
 
 Azure Notebooks project link: https://notebooks.azure.com/JackieExcell/projects/mini-project-msa-phase1-2019
